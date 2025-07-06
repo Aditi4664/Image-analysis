@@ -66,16 +66,17 @@ docker compose down
 
 ## Step 1
 
-![Step 1](./start.jpeg)
+<img src="https://github.com/Aditi4664/Image-analysis/raw/main/start.jpeg" alt="Step 1" width="500"/>
 
 ## Step 2
 
-![Step 2](https://github.com/Aditi4664/Image-analysis/blob/main/2.jpeg)
+<img src="https://github.com/Aditi4664/Image-analysis/raw/main/2.jpeg" alt="Step 2" width="500"/>
 
 ## Step 3
 
-![Step 3](./3.jpeg)
+<img src="https://github.com/Aditi4664/Image-analysis/raw/main/3.jpeg" alt="Step 3" width="500"/>
 
 ## Step 4
 
-![Step 4](./4.jpeg)
+<img src="https://github.com/Aditi4664/Image-analysis/raw/main/4.jpeg" alt="Step 4" width="500"/>
+

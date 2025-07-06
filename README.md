@@ -59,3 +59,23 @@ To remove all running containers and networks:
 
 ```bash
 docker compose down
+
+## Web App: Demo
+
+# Tutorial Steps
+
+## Step 1
+
+![Step 1](./start.jpeg)
+
+## Step 2
+
+![Step 2](https://github.com/Aditi4664/Image-analysis/blob/main/2.jpeg)
+
+## Step 3
+
+![Step 3](3.jpeg)
+
+## Step 4
+
+![Step 4](4.jpeg)

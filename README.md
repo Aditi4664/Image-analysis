@@ -64,15 +64,16 @@ docker compose down
 ## Web App: Demo
 
 # Tutorial Steps
-## Step 1
-<img src="https://github.com/Aditi4664/Image-analysis/blob/7beabacab950c182f0c2afde810101e0bbf28913/2.jpeg"/>
+## Start Page 
+<img src="https://github.com/Aditi4664/Image-analysis/blob/main/start.jpeg?raw=true">
 
-## Step 2
-<img src="https://github.com/Aditi4664/Image-analysis/raw/main/2.jpeg" alt="Step 2" width="600"/>
 
-## Step 3
-<img src="https://github.com/Aditi4664/Image-analysis/raw/main/3.jpeg" alt="Step 3" width="600"/>
+## Step 1 (We upload the picture and select the points to split)
+<img src="https://github.com/Aditi4664/Image-analysis/blob/main/3.jpeg?raw=true"/>
 
-## Step 4
-<img src="https://github.com/Aditi4664/Image-analysis/raw/main/4.jpeg" alt="Step 4" width="600"/>
 
+## Step 2 (Put our prompt in the LLM like `give the details about both the images ´)
+<img src="https://github.com/Aditi4664/Image-analysis/blob/main/4.jpeg?raw=true">
+
+## Step 3 (We get the details of the image from the prompt )
+<img src="https://github.com/Aditi4664/Image-analysis/blob/main/2.jpeg?raw=true">

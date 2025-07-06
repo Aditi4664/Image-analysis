@@ -63,20 +63,15 @@ docker compose down
 ## Web App: Demo
 
 # Tutorial Steps
-
 ## Step 1
-
-<img src="https://github.com/Aditi4664/Image-analysis/raw/main/start.jpeg" alt="Step 1" width="500"/>
+<img src="https://github.com/Aditi4664/Image-analysis/raw/main/start.jpeg" alt="Step 1" width="600"/>
 
 ## Step 2
-
-<img src="https://github.com/Aditi4664/Image-analysis/raw/main/2.jpeg" alt="Step 2" width="500"/>
+<img src="https://github.com/Aditi4664/Image-analysis/raw/main/2.jpeg" alt="Step 2" width="600"/>
 
 ## Step 3
-
-<img src="https://github.com/Aditi4664/Image-analysis/raw/main/3.jpeg" alt="Step 3" width="500"/>
+<img src="https://github.com/Aditi4664/Image-analysis/raw/main/3.jpeg" alt="Step 3" width="600"/>
 
 ## Step 4
-
-<img src="https://github.com/Aditi4664/Image-analysis/raw/main/4.jpeg" alt="Step 4" width="500"/>
+<img src="https://github.com/Aditi4664/Image-analysis/raw/main/4.jpeg" alt="Step 4" width="600"/>
 

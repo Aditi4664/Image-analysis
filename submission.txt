@@ -1,0 +1,9 @@
+## Submission Requirements
+
+Please provide your web application with:
+
+1. *docker-compose.yml* that orchestrates both frontend and backend services
+2. *Individual Dockerfiles* for frontend and backend in their respective folders
+3. *README.md* briefly describing how to set everything up, including values for hyperparameters (e.g. model name)
+4. Application should be accessible at http://localhost:3000 (frontend) 
+5. API should be accessible at http://localhost:8000 (backend)

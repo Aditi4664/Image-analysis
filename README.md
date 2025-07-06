@@ -74,8 +74,8 @@ docker compose down
 
 ## Step 3
 
-![Step 3](3.jpeg)
+![Step 3](./3.jpeg)
 
 ## Step 4
 
-![Step 4](4.jpeg)
+![Step 4](./4.jpeg)

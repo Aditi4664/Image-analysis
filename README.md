@@ -30,6 +30,15 @@ docker compose -f docker-compose.yml up --build
 •⁠  ⁠*Backend API (FastAPI docs):* [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ---
+Important: Download Required Model Before Running Docker if you want the LLMs Proper Response 
+
+The backend requires the `SmolVLM2-2.2B-Instruct-Q4_K_M.gguf` model (~2GB) from Hugging Face. Due to GitHub's 100MB file size limit, it is **not included in this repository**.
+
+#### 📥 Steps to Download the Model:
+
+   mkdir -p backend/models
+##Link for huggingface model (2gb):https://huggingface.co/ggml-org/SmolVLM2-2.2B-Instruct-GGUF/resolve/main/SmolVLM2-2.2B-Instruct-Q4_K_M.gguf
+Please upload it in backend/models directory 
 
 ## 🐳 Running in Docker Desktop
 

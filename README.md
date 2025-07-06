@@ -64,7 +64,7 @@ docker compose down
 
 # Tutorial Steps
 ## Step 1
-<img src="https://github.com/Aditi4664/Image-analysis/raw/main/start.jpeg" alt="Step 1" width="600"/>
+<img src="https://github.com/Aditi4664/Image-analysis/blob/7beabacab950c182f0c2afde810101e0bbf28913/2.jpeg"/>
 
 ## Step 2
 <img src="https://github.com/Aditi4664/Image-analysis/raw/main/2.jpeg" alt="Step 2" width="600"/>

@@ -59,6 +59,7 @@ To remove all running containers and networks:
 
 ```bash
 docker compose down
+```
 
 ## Web App: Demo
 
